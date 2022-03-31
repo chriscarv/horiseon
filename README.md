@@ -11,3 +11,4 @@ https://chriscarv.github.io/horiseon/
 
 # screenshots
 ![html](assets/images/code.png)
+![css](assets/images/code-2.png)
