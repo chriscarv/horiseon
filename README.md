@@ -8,3 +8,6 @@ webstie displays explanation of search engine optiimization, online reputation m
 
 # website
 https://chriscarv.github.io/horiseon/
+
+# screenshots
+![html](assets/images/code.png)
